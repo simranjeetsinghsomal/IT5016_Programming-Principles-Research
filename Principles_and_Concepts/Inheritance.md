@@ -4,6 +4,10 @@ Inheritance is a fundamental concept in Object-Oriented Programming (OOP), allow
 
 ## Example
 - The Circle class inherits attributes and methods from the Shape class.
+## Commentary:
+Inheritance is a powerful tool in OOP, enabling the creation of a hierarchy of classes.
+The Circle class inherits the get_color method from the Shape class, showcasing code reuse.
+However, overuse of inheritance can lead to deep class hierarchies, making code maintenance challenging.
 ## Best Practices for Inheritance:
 1. Use Inheritance for "Is-A" Relationships
 Inheritance should be used when a subclass "is-a" type of its superclass. For example, a Circle "is-a" Shape.
