@@ -9,6 +9,10 @@ This repository contains a collection of code samples and analysis of programmin
 - `Inheritance`: A Python code showcasing inheritance in object-oriented programming.
 - `Exception Handling`: A Python code with exception handling for division by zero.
 
+  ## Inspired Codes
+- `Fibonacci Series`: A Python code demonstrating the Fibonacci series using dynamic programming.
+
+
 ## Principles and Concepts
 - `Recursion.md`: Detailed explanation and analysis of recursion.
 - `Inheritance.md`: In-depth look into inheritance in OOP.
