@@ -18,4 +18,7 @@ This repository contains a collection of code samples and analysis of programmin
 - `Inheritance.md`: In-depth look into inheritance in OOP.
 - `Exception_Handling.md`: Analysis of exception handling and its importance.
 
+## Requirements 
+- `Python `: Python Version 3.11.
+
 Feel free to explore each folder and file to learn more about these programming concepts!
